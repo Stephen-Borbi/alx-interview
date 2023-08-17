@@ -1,3 +1,0 @@
-#ALX-intereview
-# log parsing
-

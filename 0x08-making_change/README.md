@@ -15,4 +15,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Geoffrey Zoref** - [Gzoref](https://github.com/xorladem)
+* **Geoffrey Zoref** - [Stephen Borbi](https://github.com/xorladem)
